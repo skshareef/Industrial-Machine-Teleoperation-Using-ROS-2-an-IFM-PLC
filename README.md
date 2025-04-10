@@ -96,7 +96,6 @@ This repository demonstrates how to connect industrial machinery (such as a tren
 
 [![Trench Roller Demo Video](docs/images/trench_roller.jpg)](docs/video_demo.mp4)
 
-*(Replace the above link with your own if hosting on YouTube or elsewhere.)*
 
 ---
 
