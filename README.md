@@ -199,8 +199,5 @@ This repository demonstrates how to connect industrial machinery (such as a tren
 ## Contact
 
 Your Name
-Email: your.email@domain.tld
+Email: shaikshareef7537@gmail.com
 
-For questions, feedback, or commercial inquiries, feel free to reach out.
-
-Happy automating with ROS 2 and IFM PLCs!
